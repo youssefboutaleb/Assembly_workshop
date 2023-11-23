@@ -3,7 +3,7 @@
 
 
 ## Description: 
-in this section you will find the solutions of the 3 exercices and the Project with python and asm
+in this section you will find the solutions of the 3 exercices and the Project with python(`solution.py`) and asm(`solution.asm`)
 
 ### Exercice 1:
 Here's a step-by-step breakdown:

@@ -1,0 +1,6 @@
+[submodule "Bonus/Bonus/asm_c_cpp"]
+	path = Bonus/Bonus/asm_c_cpp
+	url = https://github.com/iris-engine-dev/asm_c_cpp.git
+[submodule "Bonus/asm_c_cpp"]
+	path = Bonus/asm_c_cpp
+	url = https://github.com/iris-engine-dev/asm_c_cpp.git
