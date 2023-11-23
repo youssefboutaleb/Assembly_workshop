@@ -1,6 +1,8 @@
 
 # Repository Description
 
+![Sample Image](https://github.com/youssefboutaleb/Assembly_workshop/blob/main/securinets_enis.png)
+
 ## Project:  Assembly_workshop
 This is an assembly workshop that took place on November 22, 2023, organized by the SecuriNets ENIS club and led by Youssef Boutaleb
 This repository contains code and resources related to the Workshop.
@@ -20,10 +22,11 @@ This repository contains code and resources related to the Workshop.
   - `README.md`: describtion of the section
 
 - **Bonus/** : breakout game  in asm x86 , c ,c++ 
-
+- `usefull_resources.md`: usefull resources :links,blogs, courses, videos ,channels ...
+- `securinets_enis.png`: securinets enis image
 - `README.md`: The file you are currently reading.
 
-- `usefull_resources.md`: usefull resources :links,blogs, courses, videos ,channels ...
+
 
 
 ### Workshop attendees
