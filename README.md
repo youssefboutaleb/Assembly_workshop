@@ -37,6 +37,4 @@ This repository contains code and resources related to the Workshop.
 
 Finally, I want to say thank you to the workshop participants. It was a very enjoyable experience.
 
-Participants:
 
-- 
