@@ -1,8 +1,12 @@
 
 # Repository Description
 
-![Sample Image](https://github.com/youssefboutaleb/Assembly_workshop/blob/main/securinets_enis.png)
-<img src="https://github.com/youssefboutaleb/Assembly_workshop/blob/main/securinets_enis.png" alt="Sample Image" width="50%">
+
+<p align="center">
+  <img src="https://github.com/youssefboutaleb/Assembly_workshop/blob/main/securinets_enis.png" alt="Sample Image" width="50%">
+</p>
+
+
 ## Project:  Assembly_workshop
 This is an assembly workshop that took place on November 22, 2023, organized by the SecuriNets ENIS club and led by Youssef Boutaleb
 This repository contains code and resources related to the Workshop.
